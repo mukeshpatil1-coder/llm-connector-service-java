@@ -92,26 +92,6 @@ curl -X POST http://localhost:8080/llm/query \
 
 ---
 
-## ✅ Example Responses
-
-**Hugging Face:**
-
-```json
-{
-  "response": "Why did the chicken cross the road? To get to the other side!"
-}
-```
-
-**OpenAI:**
-
-```json
-{
-  "response": "Sure, here's a joke: ..."
-}
-```
-
----
-
 ## 📄 Project Structure
 
 ```
