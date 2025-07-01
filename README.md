@@ -28,7 +28,7 @@ This microservice provides a simple REST API to connect with LLMs like OpenAI or
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-org/llm-connector-service-java.git
+git clone https://github.com/mukeshpatil1-coder/llm-connector-service-java.git
 cd llm-connector-service-java
 ```
 
